@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\1a775cf30340f001ed76d9337f96ada9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\799eb97f4dadbc562edc0d3b0ca49f2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\716db1365e37aba0a8c15db4ee8a194c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\a2ba1dd5fc009ff1f27c556f5ce93c34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\6e3bdd485afd9bea35b964aed6b6cc97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7b7df0b4fec5350359d9f5082e352c19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\724b9799c8b5f035cd5cae2a3a3eb2a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90a5f677182bbeb197ac7ac60f7fd9b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14b22d36caf2e3de84de0d7406b6cd34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bcef146bb37389fcfb6f53f680cf49d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7844fef2291660d69384a1eedd638af\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:5:5-18:19
+	android:supportsRtl
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.restful.MainActivity
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\1a775cf30340f001ed76d9337f96ada9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\1a775cf30340f001ed76d9337f96ada9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\799eb97f4dadbc562edc0d3b0ca49f2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\799eb97f4dadbc562edc0d3b0ca49f2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\716db1365e37aba0a8c15db4ee8a194c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\716db1365e37aba0a8c15db4ee8a194c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\a2ba1dd5fc009ff1f27c556f5ce93c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\a2ba1dd5fc009ff1f27c556f5ce93c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\6e3bdd485afd9bea35b964aed6b6cc97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\6e3bdd485afd9bea35b964aed6b6cc97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7b7df0b4fec5350359d9f5082e352c19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7b7df0b4fec5350359d9f5082e352c19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\724b9799c8b5f035cd5cae2a3a3eb2a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\724b9799c8b5f035cd5cae2a3a3eb2a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90a5f677182bbeb197ac7ac60f7fd9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\90a5f677182bbeb197ac7ac60f7fd9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14b22d36caf2e3de84de0d7406b6cd34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14b22d36caf2e3de84de0d7406b6cd34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bcef146bb37389fcfb6f53f680cf49d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bcef146bb37389fcfb6f53f680cf49d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7844fef2291660d69384a1eedd638af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7844fef2291660d69384a1eedd638af\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml

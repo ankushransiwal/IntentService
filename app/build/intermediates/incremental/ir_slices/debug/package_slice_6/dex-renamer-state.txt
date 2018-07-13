@@ -1,0 +1,4 @@
+#Fri Jul 13 19:48:10 IST 2018
+base.0=E\:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch02\\02_04\\IntentService\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

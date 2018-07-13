@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Jul 13 19:48:11 IST 2018
+#Fri Jul 13 20:12:46 IST 2018
 2.base=E\:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch02\\02_04\\IntentService\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 5.set=DEX
 0.path=classes.dex

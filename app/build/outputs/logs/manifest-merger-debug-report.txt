@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3a1adfc35808c9fce78e468d32f88735\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\24c34a4122c78668d573980aa16b933d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2275a4efe47ee8c23ae6d0ef1d3c8a99\AndroidManifest.xml:17:1-22:12
@@ -15,59 +15,59 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ankus\.gradle\
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\14b22d36caf2e3de84de0d7406b6cd34\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bcef146bb37389fcfb6f53f680cf49d\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7844fef2291660d69384a1eedd638af\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:5:5-22:19
 	android:supportsRtl
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.example.android.restful.MainActivity
-ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:11:19-47
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:15:27-74
 service#com.example.android.restful.services.MyService
-ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:20:9-21:39
+ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:20:9-21:39
 	android:exported
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml:20:18-52
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml:20:18-52
 uses-sdk
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3a1adfc35808c9fce78e468d32f88735\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3a1adfc35808c9fce78e468d32f88735\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\24c34a4122c78668d573980aa16b933d\AndroidManifest.xml:20:5-44
@@ -90,13 +90,13 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ankus\.gradle\caches
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8bcef146bb37389fcfb6f53f680cf49d\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7844fef2291660d69384a1eedd638af\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ankus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7844fef2291660d69384a1eedd638af\AndroidManifest.xml:20:5-44
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Request_Data_from_Web\app\src\main\AndroidManifest.xml

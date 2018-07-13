@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Ch02\\02_04\\IntentService\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "E:\\Android Studio Projects\\Lynda_Androd_Apps_RESTful_update\\Request_Data_from_Web\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ankus\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\724b9799c8b5f035cd5cae2a3a3eb2a4\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\ankus\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e4b4b4da017ad364d2277e9f5848cc28\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ankus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\1a775cf30340f001ed76d9337f96ada9\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\ankus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3a1adfc35808c9fce78e468d32f88735\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

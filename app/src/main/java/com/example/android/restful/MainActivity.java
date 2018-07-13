@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
                 .registerReceiver(mBroadcastReciever,new IntentFilter(MyService.MY_SERVICE_MSG));
     }
 
-
     //Unregister the BroadcastManager to avoid memory leaks
     @Override
     protected void onDestroy() {

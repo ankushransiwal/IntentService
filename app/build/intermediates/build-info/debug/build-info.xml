@@ -5,23 +5,31 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
+    ir-eligibility="CLASS_ADDED"
     plugin-version="3.1.3"
-    timestamp="1531493786615"
+    timestamp="1531496150684"
     token="-3341808717871014581"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="746" />
+        duration="1135" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="53" />
     <task
         name="verifier"
-        duration="0" />
+        duration="15" />
+
+    <artifact
+        location="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
@@ -70,25 +78,15 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1531493307976"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="METHOD_ADDED"
-        timestamp="1531493744308"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1531496150684"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
+        <artifact
+            location="E:\Android Studio Projects\Lynda_Androd_Apps_RESTful_update\Ch02\02_04\IntentService\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1531493786615"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this,MyService.class);
         i.setData(Uri.parse(JSON_URL));
         startService(i);
+        startService(i);
+        startService(i);
 
     }
 
